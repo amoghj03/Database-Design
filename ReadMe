@@ -20,14 +20,14 @@ Table ANIMAL:
 Table ANIMAL_DETAIL: 
   represents the additional detail information of animal
 Table GOES_TO: 
-    represents the relationship table CUSTOMER and table ZOO, which means that a customer can visit the 
-    many zoos and a zoo can be visited by many customers.
+  represents the relationship table CUSTOMER and table ZOO, which means that a customer can visit the 
+  many zoos and a zoo can be visited by many customers.
 Table MANAGES: 
-   represents the relationship table EMPLOYEE and table TICKET, which means that an employee can manage 
-   many tickets and a ticket can be managed by many employees.
+  represents the relationship table EMPLOYEE and table TICKET, which means that an employee can manage 
+  many tickets and a ticket can be managed by many employees.
 Table LOOKS_AFTER: 
-   represents the relationship table EMPLOYEE and table ANIMAL, which means that an employee can looks 
-   after many animals and an animal can be looked after by many employees
+  represents the relationship table EMPLOYEE and table ANIMAL, which means that an employee can looks 
+  after many animals and an animal can be looked after by many employees
 Table CONTAINS: 
   represents the relationship table ANIMAL_GUIDE and table ANIMAL_KIND, which means that an animal guide 
   can contains many animal kinds and each animal kinds can belong to many animal guide
