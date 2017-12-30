@@ -44,15 +44,15 @@ Table **CONTAINS**:
   can contains many animal kinds and each animal kinds can belong to many animal guide
   
 ===================
-Stored Procedure #1:
-  Definition: it outputs the list of the details of all Male Pandas in the zoos, which includes the height, weight, and age.
+**Stored Procedure #1**:
+  > Definition: it outputs the list of the details of all Male Pandas in the zoos, which includes the height, weight, and age.
 
-Stored Procedure #2:
-  Definition: it outputs the list of Animal names at Zoo Region called "North America" in "Dallas" Zoo.
+**Stored Procedure #2**:
+  > Definition: it outputs the list of Animal names at Zoo Region called "North America" in "Dallas" Zoo.
 
-Trigger #1:
-  Definition: it displays the status of Employees’ monthly salaries before salaries are updated.
+**Trigger #1**:
+  > Definition: it displays the status of Employees’ monthly salaries before salaries are updated.
 
-Trigger #2:
-  Definition: it displays both previous and current details of animal after ANIMAL_DETAIL are updated.
+**Trigger #2**:
+  > Definition: it displays both previous and current details of animal after ANIMAL_DETAIL are updated.
 
