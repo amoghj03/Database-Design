@@ -1,9 +1,9 @@
-Data requirements for the system:
+**Data requirements for the system**:
 The database system is designed for ZOO where many kinds of animals are kept so that people
 could go to visit them. 
 
-Table CUSTOMER: 
-  represents customers who visit to the zoo
+**Table CUSTOMER**: 
+  > represents customers who visit to the zoo
 Table TICKET: 
   represents valid zoo tickets from associated zoo
 Table EMPLOYEE: 
