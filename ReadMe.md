@@ -43,7 +43,8 @@ Table **CONTAINS**:
   > represents the relationship table ANIMAL_GUIDE and table ANIMAL_KIND, which means that an animal guide 
   can contains many animal kinds and each animal kinds can belong to many animal guide
   
-===================
+------
+
 **Stored Procedure #1**:
   > Definition: it outputs the list of the details of all Male Pandas in the zoos, which includes the height, weight, and age.
 
